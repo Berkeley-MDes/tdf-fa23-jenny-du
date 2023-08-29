@@ -1,7 +1,7 @@
 # Hello DES INV 202 Student!
 Welcome to your new GitHub repository! 
 
-![example file](https://github.com/Berkeley-MDes/tdf-fa23-equilet/blob/main/weekly-reports/2023_08_28_example-report-1.md)
+[example file](https://github.com/Berkeley-MDes/tdf-fa23-equilet/blob/main/weekly-reports/2023_08_28_example-report-1.md)
 
 If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
 
