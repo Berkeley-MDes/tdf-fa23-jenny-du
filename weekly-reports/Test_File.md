@@ -6,3 +6,4 @@ Type some regular text
 
 Format:
 ![this is your image title](this is your image link)
+
