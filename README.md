@@ -1,7 +1,14 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# Example Report 1 - Week of 08/24/2023 (Week 1)
+## Junyan Du (Jenny), Technology Design Foundations
 
-[example file](https://github.com/Berkeley-MDes/tdf-fa23-equilet/blob/main/weekly-reports/2023_08_28_example-report-1.md)
+### Summary: 
+
+This week, through using Rhino and Grasshopper, I utilized TDF Computational Design project files to produce a phone stand for myself to document in the course.
+I made adjustment in Grasshopper regarding my phone size, table height, and my height to best fit my usage of this phone stand. Then I export to file to Adobe Illustration and then Laser Cut the file out with Plywood. The final result fits my phone well, and works great filming myself. 
+
+Here is the Final Result:
+<img width="50%" src="Final.4.JPG"></img>
+<img width="50%" src="Final.5.JPG"></img>
 
 If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
 
