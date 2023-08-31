@@ -10,6 +10,8 @@ Here is the Final Result:
 <img width="50%" src="weekly-reports/Final.4.JPG"></img>
 <img width="50%" src="weekly-reports/Final.5.JPG"></img>
 
+![randomimg](weekly-reports/Final.5.JPG)
+
 [Project Presentation](weekly-reports/Final.4.JPG "Project Presentation PDF")
 
 If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
