@@ -8,12 +8,9 @@ I made adjustment in Grasshopper regarding my phone size, table height, and my h
 
 Here is the Final Result:
 
-<img width="50%" src="weekly-reports/Week 1/Final.4.JPG"></img>
-<img width="50%" src="weekly-reports/Week 1/Final.5.JPG"></img>
+<img width="45%" src="weekly-reports/Week 1/Final.4.JPG">
+<img width="45%" src="weekly-reports/Week 1/Final.5.JPG"></img>
 
-![randomimg](weekly-reports/Week 1/Final.5.JPG)
-
-[Project Presentation](weekly-reports/Week 1/Final.5.JPG "Project Presentation PDF")
 
 If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
 
