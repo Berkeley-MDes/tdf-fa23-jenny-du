@@ -7,6 +7,7 @@ This week, through using Rhino and Grasshopper, I utilized TDF Computational Des
 I made adjustment in Grasshopper regarding my phone size, table height, and my height to best fit my usage of this phone stand. Then I export to file to Adobe Illustration and then Laser Cut the file out with Plywood. The final result fits my phone well, and works great filming myself. 
 
 Here is the Final Result:
+
 <img width="100%" src="weekly-reports/Week 1/Final.4.JPG"></img>
 <img width="50%" src="weekly-reports/Final.5.JPG"></img>
 
