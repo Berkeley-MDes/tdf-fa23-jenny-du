@@ -7,8 +7,10 @@ This week, through using Rhino and Grasshopper, I utilized TDF Computational Des
 I made adjustment in Grasshopper regarding my phone size, table height, and my height to best fit my usage of this phone stand. Then I export to file to Adobe Illustration and then Laser Cut the file out with Plywood. The final result fits my phone well, and works great filming myself. 
 
 Here is the Final Result:
-<img width="50%" src="Final.4.JPG"></img>
-<img width="50%" src="Final.5.JPG"></img>
+<img width="50%" src="weekly-reports/Final.4.JPG"></img>
+<img width="50%" src="weekly-reports/Final.5.JPG"></img>
+
+[Project Presentation](weekly-reports/Final.4.JPG "Project Presentation PDF")
 
 If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
 
