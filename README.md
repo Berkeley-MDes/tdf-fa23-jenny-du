@@ -48,8 +48,12 @@ Afterwards, I exported the file into Ai and set it to the required file settings
 
 Finally, Put the pieces together and it fits my phone well!
 
-[Here](https://drive.google.com/file/d/1MXW-o_ZRTXSfhlpwD3A6zT320pR2geVg/view) is a video I recorded by having the phone on the phone stand:
+Here is a video I recorded by having the phone on the phone stand:
 
+<p float="left">
+  <img width="45%" src="weekly-reports/Week 1/FinalGIF.gif" />
+  <img width="45%" src="weekly-reports/Week 1/FinalGIF2.gif" /> 
+</p>
 
 I really enjoyed doing this project, and I quite struggled at the beginning since I am not that familiar with Grasshopper. I took me a while to figure out the logic in Grasshopper and how to adjust the measurements. 
 
