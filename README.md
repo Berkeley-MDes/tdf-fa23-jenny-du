@@ -37,7 +37,7 @@ Here's how it looks in Rhino:
 
 <p float="left">
   <img width="45%" src="weekly-reports/Week 1/Process.R1.png" />
-  <img width="45%" src="weekly-reports/Week 1/Process.R1.png" /> 
+  <img width="45%" src="weekly-reports/Week 1/Process.R2.png" /> 
 </p>
 
 Afterwards, I exported the file into Ai and set it to the required file settings for Laser Cut:
