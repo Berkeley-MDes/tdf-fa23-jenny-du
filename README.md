@@ -1,3 +1,90 @@
+# Example Report 2 - Week of 08/31/2023 (Week 2)
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary: 
+
+This week I further explored parametric design by adjusting different parameters in Grasshopper, to produce a final outcome of a Laser-Cut Phone Stand and a 3D-Print Phone Stand. Throughout the process, I get to be more familiar with Grasshopper, and the fabrication tools in Jacobs Makerspace.
+
+Here is the Final Result:
+
+/image
+
+
+---
+
+### Reflections:
+
+Since I've measured the phone size last week, this week I first start with measuring the table size and height. Since I found the angle is a little too low from last week when putting the phone stand on my desk. 
+
+<p float="left">
+  <img src="weekly-reports/Week 2/Measure1.JPG" width="30%" />
+  <img src="weekly-reports/Week 2/Measure2.JPG" width="30%" /> 
+  <img src="weekly-reports/Week 2/Measure3.jpg" width="30%" />
+</p>
+
+Afterwards, I adjusted the parameters in Grasshopper accordingly. 
+
+<p float="left">
+  <img src="weekly-reports/Week 2/G_Process_Parameters.png" width="30%" />
+  <img src="weekly-reports/Week 2/G_Process_Parameters_Phone.png" width="35%" /> 
+  <img src="weekly-reports/Week 2/G_Process_Parameters_Table.png" width="30%" />
+</p>
+
+Then I first start with the laser cutting file, since I've worked with them last week. After baking the curves, I edited it in rhino to have rounded angles. Additionally, since I hope to be prepared for different material thickness, so I outputted two different thicknesses: 4mm and 6mm. 
+
+<p float="left">
+  <img src="weekly-reports/Week 2/Laser_Process_R1.png" width="40%" />
+  <img src="weekly-reports/Week 2/Laser_Process_R2.png" width="50%" /> 
+</p>
+
+Then I export this file into Ai to add more customizing features to it. I added my name as a rester, and added some cute curves:)
+
+<img width="50%" src="weekly-reports/Week 2/Laser_Process_A0.png">
+<img width="50%" src="weekly-reports/Week 2/Laser_Process_A1.png">
+
+The next step is to set up for do Lasercut. I used clear acrylic (1/8in), which is about 3.1mm. In this case, I choose the file with a 4mm thickness setting. However, the piece was too thin and is not very stable after I assembled them. In this case, I printed every piece twice, and found out that doubling up the thickness makes every piece fit together stably. 
+
+<img width="50%" src="weekly-reports/Week 2/Lasercut1.jpg">
+<img width="50%" src="weekly-reports/Week 2/Lasercut2.JPG">
+
+Here is the final assembly: 
+
+<img width="50%" src="weekly-reports/Week 2/Lasercut_Final.JPG">
+
+This week I've also worked on the 3D Model of the Phone Stand and get a chance to print it out using a Makerbot. 
+The first step is to bake the "3D Model brep" after adjusting all the parameters to fit my own need. 
+
+<p float="left">
+  <img src="weekly-reports/Week 2/G_Process_Bake1.png" width="40%" />
+  <img src="weekly-reports/Week 2/G_Process_Bake2.png" width="40%" /> 
+</p>
+
+Then in Rhino, I fillet the edges to have it be more rounded and smooth. 
+
+<p float="left">
+  <img src="weekly-reports/Week 2/3D_Process_R1.png" width="40%" />
+  <img src="weekly-reports/Week 2/3D_Process_R2.png" width="40%" /> 
+</p>
+
+<img width="80%" src="weekly-reports/Week 2/3D_Process_R3.png">
+
+Next step is to 3D Print the model. I exported to stl and then slice it to have a gcode file. Then I used the online "3DPrinterOS" website to queue my print for Makerbot 3 at Jacobs Hall. 
+
+<p float="left">
+  <img src="weekly-reports/Week 2/3D_Process_STL.png" width="40%" />
+  <img src="weekly-reports/Week 2/3D_Process_Slice.png" width="40%" /> 
+</p>
+
+<img width="80%" src="weekly-reports/Week 2/3D_Process_Print.png">
+
+---
+
+### Speculations:
+
+I was very happy with the final outcome, and I get to be more familiar with different software (Grasshopper, Rhino, Ai, UCP) and fabrication skills. The phone stand is more stable this time, with more customized features, and the angle perfectly matches my height and the table height to film myself standing and doing things. 
+
+I look forward to bring these skills I learned and practiced to my own design projects in the future. 
+
 # Example Report 1 - Week of 08/24/2023 (Week 1)
 ## Junyan Du (Jenny), Technology Design Foundations
 
