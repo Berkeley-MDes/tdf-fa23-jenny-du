@@ -1,4 +1,4 @@
-# Example Report 2 - Week of 08/31/2023 (Week 2)
+# Report 2 - Week of 08/31/2023 (Week 2)
 ## Junyan Du (Jenny), Technology Design Foundations
 
 ### Summary: 
@@ -49,7 +49,21 @@ The next step is to set up for do Lasercut. I used clear acrylic (1/8in), which 
 
 Here is the final assembly: 
 
-<img width="50%" src="weekly-reports/Week 2/Lasercut_Final.JPG">
+<p float="left">
+  <img src="weekly-reports/Week 2/Laser_Final_2.JPG" width="30%" />
+  <img src="weekly-reports/Week 2/Laser_Final_3.jpg" width="30%" /> 
+  <img src="weekly-reports/Week 2/Laser_Final_4.jpg" width="30%" />
+</p>
+
+Here is a picture showing this week and last week's model side by side:
+
+<img width="60%" src="weekly-reports/Week 2/Laser_Final_6.jpg">
+
+And this is a screenshot of a video I recorded using the phone stand. As you can see, it's in a good angle to film my upper body and my gestures. 
+
+<img width="60%" src="weekly-reports/Week 2/Laser_Final_5.jpg">
+
+---
 
 This week I've also worked on the 3D Model of the Phone Stand and get a chance to print it out using a Makerbot. 
 The first step is to bake the "3D Model brep" after adjusting all the parameters to fit my own need. 
@@ -77,6 +91,10 @@ Next step is to 3D Print the model. I exported to stl and then slice it to have 
 
 <img width="80%" src="weekly-reports/Week 2/3D_Process_Print.png">
 
+And here is the final result of the 3D-print Phone Stand.
+
+/image image
+
 ---
 
 ### Speculations:
@@ -85,7 +103,12 @@ I was very happy with the final outcome, and I get to be more familiar with diff
 
 I look forward to bring these skills I learned and practiced to my own design projects in the future. 
 
-# Example Report 1 - Week of 08/24/2023 (Week 1)
+
+---
+---
+
+
+# Report 1 - Week of 08/24/2023 (Week 1)
 ## Junyan Du (Jenny), Technology Design Foundations
 
 ### Summary: 
