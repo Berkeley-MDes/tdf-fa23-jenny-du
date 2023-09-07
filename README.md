@@ -7,7 +7,11 @@ This week I further explored parametric design by adjusting different parameters
 
 Here is the Final Result:
 
-/image
+<p float="left">
+  <img src="weekly-reports/Week 2/Laser_Final_2.JPG" width="30%" />
+</p>
+
+Note: The 3D printing model is still in progress, I'll upodate here when it's finished. 
 
 
 ---
@@ -93,7 +97,7 @@ Next step is to 3D Print the model. I exported to stl and then slice it to have 
 
 And here is the final result of the 3D-print Phone Stand.
 
-/image image
+Note: The 3D printing model is still in progress, I'll upodate here when it's finished. 
 
 ---
 
