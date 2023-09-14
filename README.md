@@ -1,3 +1,53 @@
+# Report 3 - Week of 09/07/2023 (Week 3)
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary: 
+
+This week I further explored what I can do with Rhino and Grasshopper, and I did a "Desk Basket" for a fun activity when I get tired of work. 
+
+<img width="80%" src="weekly-reports/Week 3/FinalGIF.gif">
+
+I created a bracelet and explored the Voronoi Patter in Grasshopper. 
+
+<p float="left">
+  <img src="weekly-reports/Week 3/GH_V+B.png" width="45%" />
+  <img src="weekly-reports/Week 3/GH_VC1.png" width="45%" /> 
+</p>
+
+Here is a video that documents the whole process of my exploration:
+
+[![TDF Video](https://i3.ytimg.com/vi/Uyn1tSN2wp8/maxresdefault.jpg)](https://youtu.be/Uyn1tSN2wp8 "Documentation Video")
+
+### Reflections:
+
+I started of with doing the Bracelet.
+
+<img width="80%" src="weekly-reports/Week 3/GH_B1.png">
+<img width="80%" src="weekly-reports/Week 3/GH_B_G1.png">
+
+The shape of the bracelet is adjustable by simply adjusting different parameters such as the Radius and Segments of the Polygon, as well as the number of frames created alongside the curve. The edge can be more rounded or sharp depends on the Fillet Radius of the Polygon. 
+
+<img width="80%" src="weekly-reports/Week 3/GH_B2.png">
+
+I chose the middle one to do a 3D-print, and here is the outcome: 
+
+<img width="80%" src="weekly-reports/Week 3/Print1.jpg">
+
+Next I worked on exploring the voronoi shape in Grasshopper. I realized that Grasshopper can create very interesting Voronoi Patterns that can be applied to a 3D-object. 
+
+<img width="80%" src="weekly-reports/Week 3/GH_V1.png">
+<img width="80%" src="weekly-reports/Week 3/GH_V_G1.png">
+
+The different thickness can be adjusted regarding how much of a scale-down on each cell is conducted:
+
+<img width="80%" src="weekly-reports/Week 3/GH_V_G2.png">
+
+I also trimed the top and adjusted the size to have the Voronoi shaped "Basket" fit the Bracelet.
+
+<img width="80%" src="weekly-reports/Week 3/GH_V3.png">
+
+
+
 # Report 2 - Week of 08/31/2023 (Week 2)
 ## Junyan Du (Jenny), Technology Design Foundations
 
