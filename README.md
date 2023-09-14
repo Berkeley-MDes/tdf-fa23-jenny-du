@@ -46,6 +46,32 @@ I also trimed the top and adjusted the size to have the Voronoi shaped "Basket" 
 
 <img width="80%" src="weekly-reports/Week 3/GH_V3.png">
 
+Here is the 3D print:
+
+<p float="left">
+  <img src="weekly-reports/Week 3/Print3.JPG" width="45%" />
+  <img src="weekly-reports/Week 3/Print4.JPG" width="45%" /> 
+</p>
+
+I continued my exploration about the Voronoi shape, and focused on doing color coding with the shape.
+
+<img width="70%" src="weekly-reports/Week 3/GH_VC1.png">
+<img width="90%" src="weekly-reports/Week 3/GH_VC_G1.png">
+
+By having adding a curve on the flattened sruface, I added more condensed points to populate center points for the Voronoi Cells. That makes the cells close to the curve smaller, and the others larger. Through having a Green-to-blue gradient, the green side is assigned to cells in smaller volume (close to curve), while blue side is asiigned to the ones in larger volume. And the Red one is simpler by having the gradient change vertically along the object. 
+
+<img width="60%" src="weekly-reports/Week 3/VC_Final.jpg">
+
+I figured that Voronoi Pattern has certain limitations on the Surface it is applied to. When the Surface is too curvy or complicated, the extrusion of the Voronoi Pattern might fail to create a closed Polysurface object in Rhino and that cannot go through the 3D Printer. 
+
+
+### Speculations:
+
+I really enjoyed the process of exploring new features in Grasshopper, especially the Voronoi Pattern. I would like to explore further on using Grasshopper to make interesting patterns that can be applied to 3d shapes/objects. 
+
+
+---
+---
 
 
 # Report 2 - Week of 08/31/2023 (Week 2)
