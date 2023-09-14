@@ -50,13 +50,13 @@ Here is the 3D print:
 
 <p float="left">
   <img src="weekly-reports/Week 3/Print3.JPG" width="45%" />
-  <img src="weekly-reports/Week 3/Print4.JPG" width="45%" /> 
+  <img src="weekly-reports/Week 3/Print4.jpg" width="45%" /> 
 </p>
 
 I continued my exploration about the Voronoi shape, and focused on doing color coding with the shape.
 
 <img width="70%" src="weekly-reports/Week 3/GH_VC1.png">
-<img width="90%" src="weekly-reports/Week 3/GH_VC_G1.png">
+<img width="100%" src="weekly-reports/Week 3/GH_VC_G1.png">
 
 By having adding a curve on the flattened sruface, I added more condensed points to populate center points for the Voronoi Cells. That makes the cells close to the curve smaller, and the others larger. Through having a Green-to-blue gradient, the green side is assigned to cells in smaller volume (close to curve), while blue side is asiigned to the ones in larger volume. And the Red one is simpler by having the gradient change vertically along the object. 
 
