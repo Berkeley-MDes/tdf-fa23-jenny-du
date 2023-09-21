@@ -1,3 +1,48 @@
+# Report 4 - Week of 09/14/2023 (Week 4)
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary: 
+
+This week I first finished the Project PDF for Project 1: Computational Design. In this PDF I mainly introduced my project, the process of making it, challenges I faced, speculations regarding computational design, and reflections on the feedback I received in class. 
+
+I also started setting up for our next project: Photon / Physical computation, and I am very excited about it!
+
+### Reflections:
+
+Here are the steps I followed to set up for Photon:
+
+First is the initial set up:
+
+<p float="left">
+  <img src="weekly-reports/Week 4/01_setup.png" width="45%" />
+  <img src="weekly-reports/Week 4/01_done.png" width="45%" /> 
+</p>
+
+Next is the Configure Wi-Fi:
+
+<img width="80%" src="weekly-reports/Week 4/02_wifi.png">
+
+Then getting Mac Address:
+
+<p float="left">
+  <img src="weekly-reports/Week 4/03_address.png" width="45%" />
+  <img src="weekly-reports/Week 3/03_address2.png" width="45%" /> 
+</p>
+
+Last step for now is the add the device in Berkeley IoT Wifi:
+
+<img width="80%" src="weekly-reports/Week 4/04_IoT.png">
+
+
+### Speculations:
+
+I am very excited to learn and explore physical computing.
+
+
+
+---
+---
+
 # Report 3 - Week of 09/07/2023 (Week 3)
 ## Junyan Du (Jenny), Technology Design Foundations
 
