@@ -6,7 +6,7 @@
 This week I furthered explored Photon, downloaded VS Code and setting up to have corresponding output in Serial Monitor. 
 
 [![TDF Video](https://i3.ytimg.com/vi/YVCr87Oi7vk/maxresdefault.jpg)](https://youtu.be/YVCr87Oi7vk "Documentation Video")
-(Click on the link to watch in Youtube)
+(Click on the image to watch in Youtube)
 
 ### Reflections:
 
