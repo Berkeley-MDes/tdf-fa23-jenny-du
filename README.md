@@ -5,7 +5,7 @@
 
 This week I furthered explored Photon, downloaded VS Code and setting up to have corresponding output in Serial Monitor. 
 
-[![TDF Video](https://i3.ytimg.com/vi/YVCr87Oi7vk/maxresdefault.jpg)]([https://youtu.be/Uyn1tSN2wp8 "Documentation Video](https://youtu.be/YVCr87Oi7vk)")
+[![TDF Video](https://i3.ytimg.com/vi/YVCr87Oi7vk/maxresdefault.jpg)](https://youtu.be/YVCr87Oi7vk "Documentation Video")
 
 ### Reflections:
 
@@ -80,11 +80,9 @@ Here is how the characters are printed out (2x the speed then the previous code)
 <img width="80%" src="weekly-reports/Week 5/lightson.gif">
 
 
+### Speculations:
 
-
-
-
-
+It was fun exploring photon and how it can be connected to the Serial Monitor for outputs related to the LED Light. I look forward to further explorations!
 
 
 
