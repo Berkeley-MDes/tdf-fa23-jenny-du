@@ -1,3 +1,96 @@
+# Report 5 - Week of 09/21/2023 (Week 5)
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary: 
+
+This week I furthered explored Photon, downloaded VS Code and setting up to have corresponding output in Serial Monitor. 
+
+[![TDF Video](https://i3.ytimg.com/vi/YVCr87Oi7vk/maxresdefault.jpg)]([https://youtu.be/Uyn1tSN2wp8 "Documentation Video](https://youtu.be/YVCr87Oi7vk)")
+
+### Reflections:
+
+During our in-class workshop, Jeff taught us how to set up VS code and provided a code to have the characters "HELLO WORLD" printed out in the serial monitor corresponding to the LED light blinks. 
+
+<img width="80%" src="weekly-reports/Week 5/board1.jpg">
+
+Here is the code:
+
+```
+const pin_t MY_LED = D7;
+char str[12] = "HELLO WORLD";
+
+int counter = 0;
+
+void setup()
+{
+    Serial.begin(9600);
+	pinMode(MY_LED, OUTPUT);
+}
+
+void loop()
+{
+	digitalWrite(MY_LED, HIGH);
+	delay(500);
+	digitalWrite(MY_LED, LOW);
+	delay(500);
+	Serial.printf("the character:%c\n", str[counter]);
+	counter++;
+	if(counter>11){
+	    counter=0;
+	}
+	delay(1000);
+}
+```
+And here is the result:
+
+<img width="80%" src="weekly-reports/Week 5/Lightslow.gif">
+
+I found it blinking too slow, so I adjusted the delay time to "500" (0.5s), and then try output it with the phrase "LIGHTS ON" instead of "HELLO WORLD".
+
+Here is the code:
+
+```
+const pin_t MY_LED = D7;
+char str[10] = "LIGHTS ON";
+
+int counter = 0;
+
+void setup()
+{
+    Serial.begin(9600);
+	pinMode(MY_LED, OUTPUT);
+}
+
+void loop()
+{
+	digitalWrite(MY_LED, HIGH);
+	delay(500);
+	digitalWrite(MY_LED, LOW);
+	delay(500);
+	Serial.printf("the character:%c\n", str[counter]);
+	counter++;
+	if(counter>9){
+	    counter=0;
+	}
+	delay(500);
+}
+```
+Here is how the characters are printed out (2x the speed then the previous code):
+
+<img width="80%" src="weekly-reports/Week 5/lightson.gif">
+
+
+
+
+
+
+
+
+
+
+---
+---
+
 # Report 4 - Week of 09/14/2023 (Week 4)
 ## Junyan Du (Jenny), Technology Design Foundations
 
