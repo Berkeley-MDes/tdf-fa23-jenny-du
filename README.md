@@ -1,6 +1,9 @@
 # Report 15 - Week of 11/23/2023
 ## Junyan Du (Jenny), Technology Design Foundations
 
+### Summary:
+I tried 
+
 ---
 ---
 
