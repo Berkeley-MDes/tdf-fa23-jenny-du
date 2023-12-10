@@ -1,4 +1,45 @@
-#Report 6 - Week of 09/28/2023
+# Report 9 - Week of 10/19/2023
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary: 
+
+# Report 8 - Week of 10/12/2023
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary: 
+I worked on the DHT11 Temperature and Humidity Sensor, and I assisted Gia on connecting the two photons to have them work correspondingly. The challenges I faced are mainly that the output from the DHT11 sensor is very unstable. I have been trying out many different ways such as changing a new sensor, trying different connection ports, but the output value from the sensor is still unstable and not even close to the actual temperature. This has led to the following problems when Gia and I are trying to connect the two photons.
+
+### Reflections: 
+I tested the connection between two photons.
+<img width="1488" alt="截屏2023-10-09 18 03 38" src="https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/ce41d9eb-9ad2-4610-87ff-935c008e730b">
+
+### Speculations:
+Intersection with AI: Our current design is mainly based on sensor data and preset thresholds, there are multiple ways AI can be integrated for future development. AI can be used to predict when the temperature or humidity is likely to go out of range based on current trends and external factors like weather
+
+---
+---
+
+# Report 7 - Week of 10/05/2023
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary: 
+We created this second diagram to help us understand the logic of the connection and our design. The diagram is very helpful in moving forward with technical development.
+For the technical part, I mainly worked on the DHT11 Temperature and Humidity Sensor, and I assisted Gia on connecting the two photons to have them work correspondingly. The challenges I faced are mainly that the output from the DHT11 sensor is very unstable. I have been trying out many different ways such as changing a new sensor, trying different connection ports, but the output value from the sensor is still unstable and not even close to the actual temperature. This has led to the following problems when Gia and I are trying to connect the two photons.
+
+<img width="80%" src="weekly-reports/Week 6/2.png">
+
+### Reflections: 
+Tested on DHT11 sensor
+<img width="80%" src="weekly-reports/Week 7/1.png">
+<img width="80%" src="weekly-reports/Week 7/2.png">
+
+### Speculations:
+Innovation in Sensor Technology: The project brings to the fore the need for robust, accurate, and affordable sensors. This might drive further research and development in the area of sensor technology, especially for agricultural applications.
+
+---
+---
+
+# Report 6 - Week of 09/28/2023
 ## Junyan Du (Jenny), Technology Design Foundations
 
 ### Summary: 
@@ -6,10 +47,13 @@
 This week I worked on project 2 ideation with my groupmates. 
 
 <img width="80%" src="weekly-reports/Week 6/1.png">
-<img width="80%" src="weekly-reports/Week 6/2.png">
 
-### Summary: 
+
+### Reflections: 
 One device (photon) connected with the DHT11 sensor is placed in the Warehouse to detect the temperature and humidity inside the warehouse. The other device will be carried by the farmer, which provides an alarm system to the farmer with light signals indicating when temperature or humidity is out-of-range.
+
+### Speculations:
+Excited about the groupwork to connect Texas farmers with emerging technologies.
 
 ---
 ---
