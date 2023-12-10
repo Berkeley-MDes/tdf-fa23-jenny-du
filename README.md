@@ -1,7 +1,42 @@
+# Report 11 - Week of 10/26/2023
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary: 
+We had the concept of Origarden originated from a vision to bridge the gap between indoor human activities and the natural world. In modern society, where our majority of time is spent indoors, opportunities for direct interaction with nature have significantly diminished. The Origarden project was meant to bring the beautiful dynamics of outdoor plants into indoor spaces, building a connection with nature for the users.
+
+### Reflections: 
+
+
+# Report 10 - Week of 10/19/2023
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary: 
+I further explored the LLM to have to more relatable in answering questions about my TDF projects.
+<img width="613" alt="截屏2023-12-10 00 06 11" src="https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/90d0c4cf-db6f-479a-9695-a345bffe822f">
+<img width="539" alt="截屏2023-12-10 00 05 59" src="https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/c2bb6cda-df86-43dc-b151-804936fcf9af">
+
+### Reflections: 
+I adjusted the temperature level to have the response more relating to my projects instead of making things up.
+<img width="581" alt="截屏2023-12-10 00 06 39" src="https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/a5bde688-7c5c-4069-88c8-9187ae969d3a">
+
+### Speculations:
+Interesting process exploring the model and have it personalized. 
+
+---
+---
+
 # Report 9 - Week of 10/19/2023
 ## Junyan Du (Jenny), Technology Design Foundations
 
 ### Summary: 
+This week I started learning and exploring LLM with zerowidth.
+<img width="1025" alt="截屏2023-12-10 00 01 18" src="https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/71190a07-3779-47d4-9470-41f25e562b52">
+
+### Reflections: 
+I tried letting the model respond with kimojis, to add certain personality. 
+
+---
+---
 
 # Report 8 - Week of 10/12/2023
 ## Junyan Du (Jenny), Technology Design Foundations
