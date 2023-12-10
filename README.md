@@ -1,3 +1,67 @@
+# Report 15 - Week of 11/23/2023
+## Junyan Du (Jenny), Technology Design Foundations
+
+---
+---
+
+# Report 14 - Week of 11/16/2023
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary:
+I tested on different gear sizes and adjusted the model.
+<img width="981" alt="截屏2023-12-10 00 40 46" src="https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/72cd69f7-6ac3-47a3-8dea-28ac79cdc95c">
+Then tested with oragami shape being laser cutted.
+![287425201-e9dbc665-4735-4810-8278-e129af685dd3](https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/a532fed3-f341-4878-942d-4ebae5f85b3d)
+
+### Reflections:
+With thicker paper, it's hard to move by the servo and requires a better gear and rack movement.
+
+### Speculations:
+Will further test with how to make the movement smooth and make the structure look pretty. 
+
+---
+---
+
+# Report 13 - Week of 11/09/2023
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary:
+This week I mainly used servo motor.
+![IMG_1484](https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/b38147a2-0ab3-4d39-9538-e37e24fdd0b3)
+![IMG_1483](https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/d58b0817-73d1-456c-9c89-d37fcfaec8f1)
+
+### Reflections:
+I spent a very long time exploring the structure, 3d printing and testing it with servo and folded shapes. 
+
+### Speculations:
+Will further test with tougher paper using laser cutter. 
+
+---
+---
+
+# Report 12 - Week of 11/02/2023
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary: 
+I mainly explored some oragami shapes
+<img width="899" alt="截屏2023-12-10 00 16 17" src="https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/5b08f8ae-c12f-4246-84f2-11ea2cb968f1">
+![Brainstorm new](https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/a76cfa1e-4a62-4baa-bdce-4fdf069bf7ed)
+
+
+### Reflections:
+<img width="417" alt="截屏2023-11-17 02 53 46" src="https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/e8a1d92b-0401-4f61-ac22-5e0bd9bc9762">
+![IMG_0156](https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/c6e125dd-ca3f-478b-a1aa-33823b70df6e)
+![IMG_0158](https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/78f09d99-f25e-40e4-81c3-93941d7bdbcd)
+![IMG_0162](https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/c6be8c17-9ee1-45ba-8e08-e294eda0cdc0)
+
+### Speculations:
+Engineering Innovations and Future Potential: The blend of computational design, digital fabrication, and microcontroller communication in Origarden could lead to new types of interactive installations and advancements in responsive architecture/interior design.
+
+
+---
+---
+
+
 # Report 11 - Week of 10/26/2023
 ## Junyan Du (Jenny), Technology Design Foundations
 
@@ -5,7 +69,14 @@
 We had the concept of Origarden originated from a vision to bridge the gap between indoor human activities and the natural world. In modern society, where our majority of time is spent indoors, opportunities for direct interaction with nature have significantly diminished. The Origarden project was meant to bring the beautiful dynamics of outdoor plants into indoor spaces, building a connection with nature for the users.
 
 ### Reflections: 
+![Brainstorm](https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/d4479545-2542-4d04-9429-30bcefaa40f0)
+We decided to have two main components. The first is a sensor kit designed to gather essential data for plant growth, such as soil moisture and sunlight. The second component is an installation with origami flowers to replicate the dynamics of real plants and OLED displays to showcase the collected data.
 
+### Speculations:
+We are excited to develop this installational piece using emerging technology and artistic design to bring more interactions with plants and greens.
+
+---
+---
 
 # Report 10 - Week of 10/19/2023
 ## Junyan Du (Jenny), Technology Design Foundations
