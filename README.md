@@ -1,3 +1,19 @@
+#Report 6 - Week of 09/28/2023
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary: 
+
+This week I worked on project 2 ideation with my groupmates. 
+
+<img width="80%" src="weekly-reports/Week 6/1.png">
+<img width="80%" src="weekly-reports/Week 6/2.png">
+
+### Summary: 
+One device (photon) connected with the DHT11 sensor is placed in the Warehouse to detect the temperature and humidity inside the warehouse. The other device will be carried by the farmer, which provides an alarm system to the farmer with light signals indicating when temperature or humidity is out-of-range.
+
+---
+---
+
 # Report 5 - Week of 09/21/2023 (Week 5)
 ## Junyan Du (Jenny), Technology Design Foundations
 
