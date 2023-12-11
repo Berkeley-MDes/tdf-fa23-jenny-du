@@ -1,8 +1,48 @@
+# Report 16 - Week of 11/30/2023
+## Junyan Du (Jenny), Technology Design Foundations
+
+### Summary:
+
+Presentation video link: https://youtu.be/Mqj_ka-ls20?si=v70H1NQr5XaOG3qm
+
+<img width="975" alt="288948012-39aee646-e729-4611-b705-df16021bcc77" src="https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/25faa57b-097a-4200-a4dc-ac4fbc694550">
+
+<img width="972" alt="288948017-d2df3269-8dcb-491d-9d4c-743f0f191119" src="https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/c4926d70-eeb9-4107-8d46-cc796f9b983e">
+
+### Reflections:
+
+By bringing a piece of nature indoors, Origarden is meant to raise awareness about environmental issues and foster a deeper connection to the natural world.We invite individuals to rediscover the beauty and dynamism of the natural world, even from within their indoor environments.
+
+The mechanism's design was the challenge for our project. We designed the structures for using the servo motors to control the unfolding of the origami flowers. We used 3D printing to fabricate the structure. In this step, we experienced several iterations to make sure that the mechanism worked seamlessly with the origami flowers.
+
+
+### Speculations:
+
+Engineering Innovations and Future Potential: The blend of computational design, digital fabrication, and microcontroller communication in Origarden could lead to new types of interactive installations and advancements in responsive architecture/interior design.
+
+Promoting Environmental Consciousness: Origarden could encourage a deeper appreciation for the environment, promoting sustainable living practices and raising environmental awareness.
+
+---
+---
+
+
 # Report 15 - Week of 11/23/2023
 ## Junyan Du (Jenny), Technology Design Foundations
 
 ### Summary:
-I tried 
+I tried more vairations on the oragami shapes and see how they can work with the servo motor. We also re-printed several more rack and pinion structures to have the gears work smooth. 
+
+<img width="1019" alt="oragami" src="https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/97951519-4ad9-4911-af5f-85bdaa6ae5e0">
+![IMG_1673](https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/c1b5d668-2ff5-40e2-9e6a-45f060d4d586)
+![IMG_1674](https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/74bbe607-b90b-43d6-8235-6297bbb884d3)
+![IMG_1672](https://github.com/Berkeley-MDes/tdf-fa23-jenny-du/assets/78037211/aaac1e48-d26c-4289-b9b9-b50e65d63d28)
+
+### Reflections:
+Interesting process testing the origami shape and actually its much more difficult than we expected. For example, one of the shape requires a wire ring to hold one side in order to make it move.
+
+### Speculations:
+We utilized the Grasshopper plugin "Crane" for our design. Within our Grasshopper program, the key component is the Crane solver, which serves as the core computational unit. Initially, we defined the positions of key points that constitute the form and specified the boundaries and folding lines. Subsequently, we defined the number of petals by specifying the angles of the flower's petals. Ultimately, the Crane solver was employed to observe the folding configuration of the flower.
+
 
 ---
 ---
